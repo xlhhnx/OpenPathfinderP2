@@ -1,0 +1,5 @@
+C:\Users\Ben\Desktop\Software Dev\Git\OpenPathfinderP2\OpenPathfinderP2\OpenPathfinderP2\OpenPathfinderP2\obj\Debug\netstandard2.0\OpenPathfinderP2.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\Software Dev\Git\OpenPathfinderP2\OpenPathfinderP2\OpenPathfinderP2\OpenPathfinderP2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ben\Desktop\Software Dev\Git\OpenPathfinderP2\OpenPathfinderP2\OpenPathfinderP2\OpenPathfinderP2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ben\Desktop\Software Dev\Git\OpenPathfinderP2\OpenPathfinderP2\OpenPathfinderP2\OpenPathfinderP2\obj\Debug\netstandard2.0\OpenPathfinderP2.AssemblyInfoInputs.cache
+C:\Users\Ben\Desktop\Software Dev\Git\OpenPathfinderP2\OpenPathfinderP2\OpenPathfinderP2\OpenPathfinderP2\obj\Debug\netstandard2.0\OpenPathfinderP2.AssemblyInfo.cs
